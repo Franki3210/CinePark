@@ -1,0 +1,796 @@
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/appsettings.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.staticwebassets.endpoints.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.exe
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.deps.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.runtimeconfig.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.pdb
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.AssemblyReference.cache
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.AssemblyInfoInputs.cache
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.AssemblyInfo.cs
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/scopedcss/bundle/Proyecto.styles.css
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.build.Proyecto.props
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Proyecto.props
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Proyecto.props
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.Up2Date
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/refint/Proyecto.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.pdb
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.genruntimeconfig.cache
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/obj/Debug/net8.0/ref/Proyecto.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Npgsql.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Common.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Configuration.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Frameworks.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.LibraryModel.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Packaging.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.ProjectModel.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Protocol.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Versioning.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/af/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ar/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/az/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/bg/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/da/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/el/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fa/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/he/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/hr/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/hu/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/hy/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/id/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/is/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ku/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/lv/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/mt/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/nb/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/nl/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ro/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/sk/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/sl/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/sr/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/sv/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/uk/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/vi/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+C:/Users/Usuario/3D Objects/Proyecto/Proyecto/bin/Debug/net8.0/BCrypt.Net-Next.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/appsettings.Development.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/appsettings.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.staticwebassets.endpoints.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.exe
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.deps.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.runtimeconfig.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.pdb
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/BCrypt.Net-Next.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/CloudinaryDotNet.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Humanizer.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Newtonsoft.Json.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Npgsql.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Common.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Configuration.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Frameworks.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.LibraryModel.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Packaging.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.ProjectModel.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Protocol.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Versioning.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.CodeDom.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.IO.Pipelines.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Text.Json.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/af/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ar/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/az/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/bg/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/da/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/el/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fa/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/he/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/hr/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/hu/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/hy/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/id/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/is/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ku/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/lv/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/mt/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/nb/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/nl/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ro/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/sk/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/sl/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/sr/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/sv/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/uk/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/vi/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.AssemblyReference.cache
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.AssemblyInfoInputs.cache
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.AssemblyInfo.cs
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.CoreCompileInputs.cache
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.MvcApplicationPartsAssemblyInfo.cs
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.MvcApplicationPartsAssemblyInfo.cache
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/scopedcss/bundle/Proyecto.styles.css
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.build.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.development.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.build.Proyecto.props
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Proyecto.props
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Proyecto.props
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.pack.json
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.Up2Date
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/refint/Proyecto.dll
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.pdb
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.genruntimeconfig.cache
+E:/01.Estudiantes/Documents/ICPC-WILSON/Proyecto/Proyecto/obj/Debug/net8.0/ref/Proyecto.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/appsettings.Development.json
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/appsettings.json
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.deps.json
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.runtimeconfig.json
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Proyecto.pdb
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/CloudinaryDotNet.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Humanizer.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Npgsql.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Common.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Configuration.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Frameworks.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Packaging.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Protocol.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/NuGet.Versioning.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.CodeDom.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Text.Json.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/af/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/az/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/da/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/el/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/he/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/id/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/is/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/wilson/Documentos/Proyecto/Proyecto/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.AssemblyReference.cache
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.AssemblyInfoInputs.cache
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.AssemblyInfo.cs
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.CoreCompileInputs.cache
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.MvcApplicationPartsAssemblyInfo.cs
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.MvcApplicationPartsAssemblyInfo.cache
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.build.json
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.development.json
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.build.Proyecto.props
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Proyecto.props
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Proyecto.props
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/staticwebassets.pack.json
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/scopedcss/bundle/Proyecto.styles.css
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.csproj.CopyComplete
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.dll
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/refint/Proyecto.dll
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.pdb
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/Proyecto.genruntimeconfig.cache
+/home/wilson/Documentos/Proyecto/Proyecto/obj/Debug/net8.0/ref/Proyecto.dll

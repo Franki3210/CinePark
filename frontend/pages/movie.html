@@ -1,0 +1,116 @@
+<!-- Estructura HTML del menú y los formularios -->
+<div class="admin-peliculas-container">
+  <!-- 1. Registrar Película -->
+  <div class="accordion-item">
+    <button class="accordion-header">
+      <span>Registrar Película</span>
+      <span class="accordion-arrow">></span>
+    </button>
+    <div class="accordion-content">
+      <form id="form-registrar" class="admin-form">
+        <div class="form-group full-width">
+          <label for="reg-titulo">Título</label>
+          <input type="text" id="reg-titulo" name="titulo" />
+        </div>
+        <div class="form-group">
+          <label for="reg-duracion">Duración (min)</label>
+          <input type="number" id="reg-duracion" name="duracion" />
+        </div>
+        <div class="form-group">
+          <label for="reg-genero">Género</label>
+          <input type="text" id="reg-genero" name="genero" />
+        </div>
+        <div class="form-group">
+          <label for="reg-fecha">Fecha de Estreno</label>
+          <input type="date" id="reg-fecha" name="fechaEstreno" />
+        </div>
+        <div class="form-group">
+          <label for="reg-restriccion">Restricción de Edad</label>
+          <input type="text" id="reg-restriccion" name="restriccionEdad" />
+        </div>
+        <div class="form-group full-width">
+          <label for="reg-sipnosis">Sinopsis</label>
+          <textarea id="reg-sipnosis" name="sipnosis"></textarea>
+        </div>
+        <button type="submit">Registrar</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- 2. Subir Imágenes y Tráiler -->
+  <div class="accordion-item">
+    <button class="accordion-header">
+      <span>Subir Imágenes y Tráiler de Película</span>
+      <span class="accordion-arrow">></span>
+    </button>
+    <div class="accordion-content">
+      <form id="form-subir-imagen" class="admin-form" enctype="multipart/form-data">
+        <!-- Campo para el título de la película (sin cambios) -->
+        <div class="form-group">
+          <label for="img-titulo">Título de la Película</label>
+          <input type="text" id="img-titulo" name="titulo" required />
+        </div>
+
+        <!-- NUEVO: Campo para la imagen vertical -->
+        <div class="form-group">
+          <label for="img-vertical">Imagen Vertical (Póster)</label>
+          <input type="file" id="img-vertical" name="archivo1" accept="image/*" required />
+        </div>
+
+        <!-- NUEVO: Campo para la imagen horizontal -->
+        <div class="form-group">
+          <label for="img-horizontal">Imagen Horizontal (Banner)</label>
+          <input type="file" id="img-horizontal" name="archivo2" accept="image/*" required />
+        </div>
+
+        <!-- NUEVO: Campo para la URL del tráiler -->
+        <div class="form-group">
+          <label for="trailer-url">URL del Tráiler</label>
+          <input type="text" id="trailer-url" name="trailer" placeholder="https://www.youtube.com/watch?v=..."
+            required />
+        </div>
+
+        <button type="submit">Subir Archivos</button>
+      </form>
+    </div>
+  </div>
+  <!-- 3. Actualizar Película -->
+  <div class="accordion-item">
+    <button class="accordion-header">
+      <span>Actualizar Película</span>
+      <span class="accordion-arrow">></span>
+    </button>
+    <div class="accordion-content">
+      <form id="form-actualizar" class="admin-form">
+        <div class="form-group">
+          <label for="act-titulo-actual">Título Actual</label>
+          <input type="text" id="act-titulo-actual" name="tituloActual" required />
+        </div>
+        <div class="form-group">
+          <label for="act-nuevo-titulo">Nuevo Título</label>
+          <input type="text" id="act-nuevo-titulo" name="nuevoTitulo" required />
+        </div>
+        <!-- Puedes añadir aquí el resto de campos para actualizar si lo necesitas -->
+        <button type="submit">Actualizar</button>
+      </form>
+    </div>
+  </div>
+  <!-- 4. Eliminar Película -->
+  <div class="accordion-item">
+    <button class="accordion-header">
+      <span>Eliminar Película</span>
+      <span class="accordion-arrow">></span>
+    </button>
+
+    <div class="accordion-content">
+      <form id="form-eliminar" class="admin-form">
+        <h3>Eliminar Película</h3>
+        <div class="form-group">
+          <label for="del-titulo">Título de la Película a Eliminar:</label>
+          <input type="text" id="del-titulo" placeholder="Escribe el título exacto" required>
+        </div>
+        <button type="submit">Eliminar Película</button>
+      </form>
+    </div>
+  </div>
+</div>

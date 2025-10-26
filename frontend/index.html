@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sistemas de Cine</title>
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="stylesheet" href="assets/css/carrusel.css" />
+  <link rel="stylesheet" href="assets/css/historial.css">
+  <link rel="stylesheet" href="assets/css/funcion.css">
+  <link rel="stylesheet" href="assets/css/pelicula.css">
+</head>
+<body>
+  <header>
+    <!-- Elemento 1: Logo -->
+    <a href="#" class="logo-container">
+      <img src="assets/img/logo.jpeg" alt="CinePark" class="logo-img" />
+    </a>
+
+    <nav class="Navegacion">
+      <!-- El contenido se inyectará aquí con JavaScript -->
+    </nav>
+
+    <!-- Elemento 3: Acciones y Menú Hamburguesa -->
+    <div class="header-right-group">
+      <!-- Tu JS inyectará el nombre de usuario y logout aquí -->
+      <div class="header-actions">
+        <!-- Botones iniciales que tu JS eliminará -->
+        <button id="btnRegistro" class="btn-registro">Registrar</button>
+        <button id="btnLogin" class="btn-login">Iniciar sesión</button>
+      </div>
+
+      <!-- Botón del menú hamburguesa (solo visible en móvil) -->
+      <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </button>
+    </div>
+  </header>
+  <main id="main-content">
+    <!-- Carrusel principal -->
+    <div class="carrusel-container">
+      <!-- El carrusel se llenará dinámicamente -->
+      <div class="carrusel" id="carrusel"></div>
+      <!-- Botones de Navegación -->
+      <button id="prevBtn" class="nav-btn prev">‹</button>
+      <button id="nextBtn" class="nav-btn next">›</button>
+
+      <!-- Indicadores de Paginación -->
+      <div class="indicadores" id="indicadores"></div>
+    </div>
+
+    <h1>🎥 Cartelera de Películas</h1>
+
+    <div id="peliculasContainer" class="peliculas-container"></div>
+  </main>
+  <!--  Modal de Registro -->
+  <div id="modalRegistro" class="modal">
+    <div class="form-container">
+      <span id="cerrarModal" class="cerrar">&times;</span>
+      <h2>Registrarse</h2>
+      <form id="formRegistro">
+        <div>
+          <label for="nombre">Nombre usuario</label>
+          <input type="text" id="nombre" name="nombre" required />
+        </div>
+        <div>
+          <label for="apellidoPaterno">Apellido paterno</label>
+          <input type="text" id="apellidoPaterno" name="apellidoPaterno" required />
+        </div>
+        <div>
+          <label for="apellidoMaterno">Apellido materno</label>
+          <input type="text" id="apellidoMaterno" name="apellidoMaterno" required />
+        </div>
+        <div>
+          <label for="fechaNacimiento">Fecha de Nacimiento</label>
+          <input type="date" id="fechaNacimiento" name="fechaNacimiento" required />
+        </div>
+        <div>
+          <label for="telefono">Teléfono</label>
+          <input type="tel" id="telefono" name="telefono" required />
+        </div>
+        <div>
+          <label for="numeroDocumento">CI</label>
+          <input type="text" id="numeroDocumento" name="numeroDocumento" required />
+        </div>
+        <div>
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required />
+        </div>
+        <div>
+          <label for="genero">Género</label>
+          <select id="genero" name="genero" required>
+            <option value="">Seleccione</option>
+            <option value="masculino">Masculino</option>
+            <option value="femenino">Femenino</option>
+          </select>
+        </div>
+        <div>
+          <label for="contrasena">Contraseña</label>
+          <input type="password" id="contrasena" name="contrasena" required />
+        </div>
+        <div>
+          <label for="confirmarContrasena">Confirmar contraseña</label>
+          <input type="password" id="confirmarContrasena" name="confirmarContrasena" required />
+        </div>
+        <button type="submit">Registrarse</button>
+      </form>
+    </div>
+  </div>
+  <!--  Modal de LOGIN (Mismo estilo que registro) -->
+  <div id="modalLogin" class="modal">
+    <div class="form-container">
+      <span id="cerrarLogin" class="cerrar">&times;</span>
+      <h2>Iniciar Sesión</h2>
+      <form id="formLogin">
+        <div style="grid-column: 1 / 3">
+          <label for="correoLogin">Correo electrónico</label>
+          <input type="email" id="correoLogin" name="correoLogin" required />
+        </div>
+        <div style="grid-column: 1 / 3">
+          <label for="contrasenaLogin">Contraseña</label>
+          <input type="password" id="contrasenaLogin" name="contrasenaLogin" required />
+        </div>
+        <button type="submit">Iniciar sesión</button>
+      </form>
+    </div>
+  </div>
+  <!-- === INICIO DEL FOOTER === -->
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="footer-column about">
+        <img src="assets/img/logo.jpeg" alt="CinePark Logo" class="footer-logo" />
+        <p>
+          Tu experiencia cinematográfica comienza aquí. Disfruta de los
+          últimos estrenos con la mejor calidad.
+        </p>
+      </div>
+      <div class="footer-column links">
+        <h4>Navegación</h4>
+        <ul>
+          <li><a href="#">Cartelera</a></li>
+          <li><a href="#">Próximamente</a></li>
+          <li><a href="#">Sobre Nosotros</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </div>
+      <div class="footer-column social">
+        <h4>Síguenos</h4>
+        <div class="social-icons">
+          <!-- Reemplaza '#' con tus URLs reales -->
+          <a href="#">FB</a>
+          <a href="#">IG</a>
+          <a href="#">TW</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2024 CinePark. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+  <script src="js/main.js"></script>
+  <script src="js/api.js"></script>
+</body>
+</html>
