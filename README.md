@@ -71,11 +71,11 @@ Backend: ASP.NET Core
 Frontend: HTML, CSS, JavaScript
 
 Base de datos: PostgreSQL (según la carpeta Migrations y Data)
-
+```plaintext
 Servicios: Cloudinary (para gestión de imágenes)
 │   ├── Proyecto.csproj.user
 │   └── Proyecto.sln
-
+```
 ## Funcionalidades principales
 
 - Gestión de películas y funciones
