@@ -63,8 +63,8 @@ CinePark es un proyecto universitario que simula la gestión de un cine, incluye
 │   ├── Proyecto.csproj
 
 
-
-Tecnologías usadas
+```
+## Tecnologías usadas
 
 Backend: ASP.NET Core
 
@@ -75,3 +75,11 @@ Base de datos: PostgreSQL (según la carpeta Migrations y Data)
 Servicios: Cloudinary (para gestión de imágenes)
 │   ├── Proyecto.csproj.user
 │   └── Proyecto.sln
+
+## Funcionalidades principales
+
+- Gestión de películas y funciones
+- Registro y manejo de cuentas de usuario
+- Historial de compras
+- Control de salas y asientos
+- Integración con Cloudinary para manejo de imágenes
