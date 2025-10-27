@@ -81,5 +81,6 @@ Servicios: Cloudinary (para gestión de imágenes)
 - Gestión de películas y funciones
 - Registro y manejo de cuentas de usuario
 - Historial de compras
-- Control de salas y asientos
+- Reproduccion de Trailers
+- Roles por cuenta administratidor y cliente
 - Integración con Cloudinary para manejo de imágenes
