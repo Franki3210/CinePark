@@ -11,56 +11,21 @@ CinePark es un proyecto universitario que simula la gestión de un cine, incluye
 ├── frontend
 │   ├── assets
 │   │   ├── css
-│   │   │   ├── carrusel.css
-│   │   │   ├── funcion.css
-│   │   │   ├── historial.css
-│   │   │   ├── main.css
-│   │   │   └── pelicula.css
 │   │   └── img
-│   │       ├── logo.jpeg
-│   │       └── QR.png
 │   ├── index.html
 │   ├── js
-│   │   ├── api.js
-│   │   └── main.js
 │   └── pages
-│       ├── function.html
-│       ├── movie.html
-│       └── purchase_history.html
 ├── Proyecto
 │   ├── Controllers
-│   │   ├── administradorsController.cs
-│   │   ├── AsientoesController.cs
-│   │   ├── ComprasController.cs
-│   │   ├── CuentasController.cs
-│   │   ├── FuncionsController.cs
-│   │   ├── PeliculasController.cs
-│   │   ├── PersonasController.cs
-│   │   └── SalasController.cs
 │   ├── Data
-│   │   └── Database.cs
 │   ├── Migrations
-│   │   ├── 20251026221413_m1.cs
-│   │   ├── 20251026221413_m1.Designer.cs
-│   │   └── DatabaseModelSnapshot.cs
 │   ├── Models
-│   │   ├── administrador.cs
-│   │   ├── Asiento.cs
-│   │   ├── Compra.cs
-│   │   ├── Cuenta.cs
-│   │   ├── Funcion.cs
-│   │   ├── Pelicula.cs
-│   │   ├── Persona.cs
-│   │   ├── Sala.cs
-│   │   └── SalaDetalleDTO.cs
 │   ├── Services
-│   │   └── CloudinaryService.cs
 │   ├── Program.cs
 │   ├── Properties
-│   │   └── launchSettings.json
 │   ├── appsettings.json
-│   ├── appsettings.Development.json
-│   ├── Proyecto.csproj
+│   └── Proyecto.sln
+
 
 
 ```
